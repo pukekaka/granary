@@ -1,0 +1,22 @@
+{
+  "name": "granary",
+  "version": "1.0.0",
+  "description": "asecresponse projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pukekaka/granary.git"
+  },
+  "author": "pukekakaster@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pukekaka/granary/issues"
+  },
+  "homepage": "https://github.com/pukekaka/granary#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
