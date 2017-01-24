@@ -23,7 +23,6 @@ reated by https://www.gitignore.io/api/jetbrains
 .idea/
 node_modules/
 bower_components/
-client/libs/
 
 
 # Mongo Explorer plugin:
