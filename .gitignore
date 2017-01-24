@@ -22,6 +22,8 @@ reated by https://www.gitignore.io/api/jetbrains
 #.idea/libraries
 .idea/
 node_modules/
+bower_components/
+client/libs/
 
 
 # Mongo Explorer plugin:
