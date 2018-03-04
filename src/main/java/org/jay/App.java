@@ -38,9 +38,9 @@ public class App
 	public static final Integer APPROVAL_GROUP = 9;
 	public static final Integer APPROVAL_NUMBER = 10;
 	
-	public static final String MENU_PATH = "E:/Dropbox/backup/menu_recent.xlsx";
+	public static final String MENU_PATH = "/Volumes/Data/Dropbox/backup/menu_recent.xlsx";
 	public static final String POS_DATE = "20180303";
-	public static final String DAILY_POS_PATH = "C:/Users/pukekakaster/Downloads/list_"+POS_DATE+".xls";
+	public static final String DAILY_POS_PATH = "/Users/pukekakaster/Downloads/list_"+POS_DATE+".xls";
 	
     @SuppressWarnings("resource")
 	public static void main( String[] args ) throws Exception
@@ -268,7 +268,7 @@ public class App
     		//System.out.println(lastitem.get("핫도그O"));
     		
     		// 메뉴 가격과 아이템 갯수 맵핑해서 탭구분자로 파일 만들기 (lastitem)
-    		String fileName = "C:/Users/pukekakaster/Downloads/item_"+POS_DATE+".txt" ;
+    		String fileName = "/Users/pukekakaster/Downloads/item_"+POS_DATE+".txt" ;
     		BufferedWriter fw = new BufferedWriter(new FileWriter(fileName, true));
     		
     		//승인아이템들...
