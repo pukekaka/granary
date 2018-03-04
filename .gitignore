@@ -1,4 +1,4 @@
-reated by https://www.gitignore.io/api/jetbrains
+created by https://www.gitignore.io/api/jetbrains
 
 ### JetBrains ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
@@ -21,9 +21,8 @@ reated by https://www.gitignore.io/api/jetbrains
 #.idea/gradle.xml
 #.idea/libraries
 .idea/
-node_modules/
-bower_components/
-
+*.gz
+__pycache__
 
 # Mongo Explorer plugin:
 #.idea/mongoSettings.xml

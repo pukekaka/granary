@@ -1,2 +1,0 @@
-# granary
-granary repository
