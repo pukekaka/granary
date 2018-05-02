@@ -38,9 +38,14 @@ public class App
 	public static final Integer APPROVAL_GROUP = 9;
 	public static final Integer APPROVAL_NUMBER = 10;
 	
+<<<<<<< HEAD
 //	public static final String MENU_PATH = "/Volumes/Data/Dropbox/backup/menu_recent.xlsx";
 	public static final String MENU_PATH = "/Users/pukekakaster/Dropbox/backup/menu_recent.xlsx";
 	public static final String POS_DATE = "20180331";
+=======
+	public static final String MENU_PATH = "/Volumes/Data/Dropbox/backup/menu_recent.xlsx";
+	public static final String POS_DATE = "20180413";
+>>>>>>> 5bbb7dcb9719d3ab863e0b25d94f6adfe3331ae7
 	public static final String DAILY_POS_PATH = "/Users/pukekakaster/Downloads/list_"+POS_DATE+".xls";
 	
     @SuppressWarnings("resource")
