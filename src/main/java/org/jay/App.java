@@ -40,7 +40,7 @@ public class App
 	
 
 	public static final String MENU_PATH = "/Users/pukekakaster/Dropbox/backup/menu_recent.xlsx";
-	public static final String POS_DATE = "20180527";
+	public static final String POS_DATE = "20180605";
 	public static final String DAILY_POS_PATH = "/Users/pukekakaster/Downloads/list_"+POS_DATE+".xls";
 	
     @SuppressWarnings("resource")
